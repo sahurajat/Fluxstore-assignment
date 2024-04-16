@@ -3,14 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+1-Splash screen
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-04-16 210635](https://github.com/sahurajat/Fluxstore-assignment/assets/119427607/d4250f05-c234-4068-8439-1a8a1ce5ce23)
+2- Dashboard Screen
+![Screenshot 2024-04-16 210645](https://github.com/sahurajat/Fluxstore-assignment/assets/119427607/857280e7-6c10-4465-b466-615ff7e7b9bc)
