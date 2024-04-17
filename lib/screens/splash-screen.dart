@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables, use_super_parameters
+// ignore_for_file: use_super_parameters, prefer_const_constructors, prefer_const_literals_to_create_immutables
 
 import 'dart:async';
 
@@ -45,7 +45,7 @@ class _SplashScreenState extends State<SplashScreen> {
           children: [
             Expanded(
               child: Container(
-                width: Get.width,
+                width: MediaQuery.of(context).size.width,
                 alignment: Alignment.center,
                 child: Lottie.asset(
                     'image/ann2.json'), // Add your Lottie animation path
@@ -53,7 +53,7 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
             Container(
               margin: EdgeInsets.only(bottom: 20.0),
-              width: Get.width,
+              width: MediaQuery.of(context).size.width,
               alignment: Alignment.center,
               child: Text(
                 "Powered By Fluxstore",

@@ -56,7 +56,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
               tabs: [
                 _buildTab('image/polo.png', 'Men'),
                 _buildTab('image/frock.png', 'Women'),
-                _buildTab('image/man.png', 'Clothing'),
+                _buildTab('image/man.png', 'Cloth'),
                 _buildTab('image/bag.png', 'Posters'),
                 _buildTab('image/cap.png', 'Cap'),
               ],
